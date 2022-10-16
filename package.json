@@ -60,7 +60,9 @@
     "swiper": "^6.6.1",
     "use-lax": "^4.0.3",
     "usehooks-ts": "^2.7.2",
-    "video-react": "^0.14.1"
+    "video-react": "^0.14.1",
+    "aos": "^2.3.4",
+    "prop-types": "^15.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -85,9 +87,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "aos": "^2.3.4",
-    "prop-types": "^15.8.1"
   }
 }
